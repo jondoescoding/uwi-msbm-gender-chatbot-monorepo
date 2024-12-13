@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: chatbloom-caribbean
+    name: uwi-msbm-gender-chatbot-monorepo-frontend
     env: static
     buildCommand: npm run build
     staticPublishPath: ./dist
