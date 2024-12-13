@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "uwi-msbm-gender-chatbot-frontend"
+version = "0.1.0"
+authors = [
+  { name="Jon", email="jondoescoding@pm.me" },
+]
+description = "Caribbean Gender News Chat API"
+requires-python = ">=3.8"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "langchain",
+    "python-dateutil",
+    "langchain-astradb",
+    "langchain-community",
+    "langchain-core",
+    "langchain-experimental",
+    "langchain-groq",
+    "langchain-huggingface",
+    "langchain-mongodb",
+    "langchain-openai",
+    "langchain-text-splitters",
+    "langgraph",
+    "langgraph-checkpoint",
+    "langgraph-sdk",
+    "langsmith",
+    "pytz"
+]

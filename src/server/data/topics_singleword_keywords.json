@@ -1,0 +1,86 @@
+[
+    {
+        "research_topic": [
+            "Gender Discrimination",
+            "Gender Bias"
+        ],
+        "definition": "This encompasses unequal treatment, prejudice, or stereotyping based on gender. It can manifest in various forms, such as sexism, misogyny, or the favoring of one gender over another."
+    },
+    {
+        "research_topic": "Gender Inequality",
+        "definition": "This refers to the unequal distribution of opportunities, resources, or power between genders. It can be observed in areas like education, employment, income, and political representation."
+    },
+    {
+        "research_topic": "Gender Based Violence",
+        "definition": "This includes any form of violence that is directed at an individual based on their gender identity or expression. It can range from physical and sexual assault to psychological abuse, harassment, and harmful traditional practices."
+    },
+    {
+        "research_topic": [
+            "Gender Stereotypes",
+            "Gender Roles"
+        ],
+        "definition": "These are socially constructed beliefs and expectations about how individuals of different genders should behave, dress, and express themselves. They can limit opportunities and reinforce inequalities."
+    },
+    {
+        "research_topic": [
+            "Gender Identity",
+            "Gender Expression"
+        ],
+        "definition": "This encompasses the wide range of ways in which individuals understand and express their gender. It includes transgender, non-binary, and genderqueer identities. Issues in this category can include discrimination, lack of legal recognition, and barriers to healthcare."
+    },
+    {
+        "research_topic": "Gender Sexuality",
+        "definition": "This explores the intersection between gender and sexual orientation, including issues like heteronormativity, homophobia, and biphobia. It also addresses the unique challenges faced by LGBTQ+ individuals."
+    },
+    {
+        "research_topic": "Gender Health",
+        "definition": "This examines how gender impacts health outcomes and access to healthcare. It includes topics like reproductive health, maternal mortality, and the gendered impact of diseases."
+    },
+    {
+        "research_topic": "Gender Education",
+        "definition": "This focuses on how gender affects educational opportunities and experiences. It can include issues like gender gaps in literacy rates, discrimination in schools, and the gendered nature of school curricula."
+    },
+    {
+        "research_topic": "Gender at Work",
+        "definition": "This explores the gendered division of labor, the gender pay gap, workplace discrimination, and the challenges faced by working mothers. It also addresses the underrepresentation of women in leadership positions."
+    },
+    {
+        "research_topic": "Gender in Media",
+        "definition": "This examines how gender is represented in the media, including issues like the sexualization of women, the portrayal of masculinity, and the lack of diversity in media representation. It also addresses the role of media in shaping societal attitudes about gender."
+    },
+    {
+        "research_topic": "Gender Equality",
+        "definition": "Gender equality is the condition where social systems and institutions enable individuals to freely and equally participate in the political, economic, and social life of their choosing, without being subjected to discrimination. It seeks to recognize and promote equal rights, opportunities, and access for all genders, with the aim of establishing a balanced and fair society."
+    },
+    {
+        "research_topic": "Gender Activism",
+        "definition": "Gender activism is a dedicated effort to promote gender equity and challenge gender stereotypes and norms through advocacy, awareness campaigns, and policy change. It encompasses a range of activities aimed at addressing gender disparities and promoting the rights and well-being of all genders."
+    },
+    {
+        "research_topic": "Gender Sensitivity",
+        "definition": "Gender sensitivity is the understanding and awareness of the different experiences and needs of various genders. It involves recognizing gender roles and biases to ensure inclusive behavior and practices in social and professional interactions, thereby fostering an environment of respect and dignity for all, regardless of gender."
+    },
+    {
+        "research_topic": "Gender Analysis",
+        "definition": "Gender analysis is a methodological framework used to systematically examine the relationship between gender and different social and economic processes. Its goal is to reveal how gender relations influence various aspects of life, such as access to resources, decision-making power, and control over resources, thereby contributing to gender equity analysis and informed policymaking."
+    },
+    {
+        "keywords": {
+            "english": [
+                "sexism", "misogyny", "discrimination", "bias", "inequality", "harassment", "prejudice", "stereotype", "patriarchy", "exclusion", "chauvinism", "oppression", "marginalization", "disparity", "glassceiling", "power", "access", "resources", "education", "employment", "income", "representation", "gap", "division", "imbalance", "violence", "abuse", "assault", "rape", "trafficking", "mutilation", "stalking", "marriage", "homicide", "exploitation", "coercion", "intimidation", "harm", "crimes", "roles", "expectations", "norms", "masculinity", "femininity", "behavior", "identity", "expression", "conformity", "tradition", "socialization", "constraints", "transgender", "nonbinary", "genderqueer", "pronouns", "transition", "dysphoria", "acceptance", "recognition", "inclusivity", "diversity", "fluidity", "spectrum", "healthcare", "sexuality", "orientation", "heteronormativity", "homophobia", "biphobia", "lesbian", "gay", "bisexual", "queer", "transphobia", "pride", "ally", "intersectionality", "reproduction", "maternal", "mortality", "disease", "care", "contraception", "abortion", "menstruation", "disparities", "cancer", "HIV", "wellness", "services", "literacy", "schooling", "curriculum", "enrollment", "attainment", "dropout", "scholarships", "policies", "workplace", "salary", "promotion", "leadership", "motherhood", "flexibility", "careers", "opportunities", "benefits", "media", "sexualization", "objectification", "portrayal", "influence", "narratives", "imagery", "advertising", "equality", "rights", "justice", "empowerment", "equity", "balance", "fairness", "parity", "freedom", "respect", "advocacy", "activism", "campaigns", "protests", "movements", "awareness", "change", "solidarity", "feminism", "sensitivity", "empathy", "training", "competence", "practices", "language", "analysis", "methodology", "data", "research", "statistics", "evaluation", "assessment", "mainstreaming", "dynamics", "framework"
+            ],
+            "spanish": [
+                "sexismo", "misoginia", "discriminación", "sesgo", "desigualdad", "acoso", "prejuicio", "estereotipo", "patriarcado", "exclusión", "chauvinismo", "opresión", "marginalización", "disparidad", "techo", "poder", "acceso", "recursos", "educación", "empleo", "ingresos", "representación", "brecha", "división", "desequilibrio", "violencia", "abuso", "asalto", "violación", "trata", "mutilación", "acecho", "matrimonio", "homicidio", "explotación", "coerción", "intimidación", "daño", "crímenes", "roles", "expectativas", "normas", "masculinidad", "feminidad", "comportamiento", "identidad", "expresión", "conformidad", "tradición", "socialización", "limitaciones", "transgénero", "nobinario", "genderqueer", "pronombres", "transición", "disforia", "aceptación", "reconocimiento", "inclusividad", "diversidad", "fluidez", "espectro", "salud", "sexualidad", "orientación", "heteronormatividad", "homofobia", "bifobia", "lesbiana", "gay", "bisexual", "queer", "transfobia", "orgullo", "aliado", "interseccionalidad", "reproducción", "materna", "mortalidad", "enfermedad", "cuidado", "anticoncepción", "aborto", "menstruación", "cáncer", "VIH", "bienestar", "servicios", "alfabetización", "escolarización", "currículo", "matrícula", "logro", "deserción", "becas", "políticas", "trabajo", "salario", "promoción", "liderazgo", "maternidad", "flexibilidad", "carreras", "oportunidades", "beneficios", "medios", "sexualización", "objetivación", "representación", "influencia", "narrativas", "imágenes", "publicidad", "igualdad", "derechos", "justicia", "empoderamiento", "equidad", "equilibrio", "paridad", "libertad", "respeto", "defensa", "activismo", "campañas", "protestas", "movimientos", "conciencia", "cambio", "solidaridad", "feminismo", "sensibilidad", "empatía", "capacitación", "competencia", "prácticas", "lenguaje", "análisis", "metodología", "datos", "investigación", "estadísticas", "evaluación", "valoración", "transversalización", "dinámicas", "marco"
+            ],
+            "french": [
+                "sexisme", "misogynie", "discrimination", "biais", "inégalité", "harcèlement", "préjugé", "stéréotype", "patriarcat", "exclusion", "chauvinisme", "oppression", "marginalisation", "disparité", "plafond", "pouvoir", "accès", "ressources", "éducation", "emploi", "revenu", "représentation", "écart", "division", "déséquilibre", "violence", "abus", "agression", "viol", "traite", "mutilation", "harcèlement", "mariage", "homicide", "exploitation", "coercition", "intimidation", "dommage", "crimes", "rôles", "attentes", "normes", "masculinité", "féminité", "comportement", "identité", "expression", "conformité", "tradition", "socialisation", "contraintes", "transgenre", "nonbinaire", "genderqueer", "pronoms", "transition", "dysphorie", "acceptation", "reconnaissance", "inclusivité", "diversité", "fluidité", "spectre", "santé", "sexualité", "orientation", "hétéronormativité", "homophobie", "biphobie", "lesbienne", "gay", "bisexuel", "queer", "transphobie", "fierté", "allié", "intersectionnalité", "reproduction", "maternelle", "mortalité", "maladie", "soins", "contraception", "avortement", "menstruation", "cancer", "VIH", "bien-être", "services", "alphabétisation", "scolarisation", "curriculum", "inscription", "réussite", "décrochage", "bourses", "politiques", "travail", "salaire", "promotion", "leadership", "maternité", "flexibilité", "carrières", "opportunités", "avantages", "médias", "sexualisation", "objectivation", "portrait", "influence", "narrations", "imagerie", "publicité", "égalité", "droits", "justice", "autonomisation", "équité", "équilibre", "parité", "liberté", "respect", "plaidoyer", "activisme", "campagnes", "manifestations", "mouvements", "sensibilisation", "changement", "solidarité", "féminisme", "sensibilité", "empathie", "formation", "compétence", "pratiques", "langage", "analyse", "méthodologie", "données", "recherche", "statistiques", "évaluation", "estimation", "intégration", "dynamique", "cadre"
+            ],
+            "creole": [
+                "sexis", "mizojini", "diskriminasyon", "pasyalite", "inegalite", "asèlman", "prejije", "estereyotip", "patriyarka", "eksklizyon", "chovenis", "opresyon", "majinalizasyon", "disparite", "plafon", "pouvwa", "akses", "resous", "edikasyon", "anplwa", "revni", "reprezantasyon", "twou", "divizyon", "dezekilib", "vyolans", "abiz", "agresyon", "vyòl", "trafik", "mutilasyon", "pèsistans", "maryaj", "omisid", "esklavaj", "keksyon", "entimidasyon", "domaj", "krim", "wòl", "atant", "norm", "maskilinite", "feminite", "konpòtman", "idantite", "ekspresyon", "konfòmite", "tradisyon", "sosyalizasyon", "restriksyon", "transganr", "nonbinè", "genderqueer", "pronom", "tranzisyon", "disforya", "akseptasyon", "rekonesans", "enkli", "divèsite", "fluidite", "espekt", "sante", "seksyalite", "oryantasyon", "eteronormativite", "omofobi", "bifobi", "lezbyèn", "gaye", "biseksyèl", "kuyè", "transfobi", "fyète", "aly", "entèseksyonalite", "reproduksyon", "matènèl", "mortalite", "maladi", "swen", "kontresepsyon", "avòtman", "menstruasyon", "kansè", "VIH", "byenèt", "sèvis", "alfabetizasyon", "lekòl", "pwogram", "enskripsyon", "reyisit", "abandone", "bousdetid", "politik", "travay", "salè", "pwomosyon", "lidèchip", "matènite", "fleksibilite", "karyè", "opòtinite", "benefis", "medya", "seksyalizasyon", "objèktifikasyon", "pòtrè", "enfliyans", "narasyon", "imaj", "piblisite", "egalite", "dwa", "jistis", "empowerman", "ekite", "ekilib", "parite", "libète", "respè", "defans", "aktivis", "kanpay", "pwotestasyon", "mouvman", "sansibilizasyon", "chanjman", "solidarite", "feminism", "sansibilite", "empathi", "fòmasyon", "konpetans", "pratik", "langaj", "analiz", "metodoloji", "done", "rechèch", "estatistik", "evalyasyon", "estimasyon", "entegre", "dinamik", "kadr"
+            ],
+            "dutch": [
+                "seksisme", "misogynie", "discriminatie", "bias", "ongelijkheid", "intimidatie", "vooroordeel", "stereotype", "patriarchaat", "uitsluiting", "chauvinisme", "onderdrukking", "marginalisatie", "dispariteit", "glazenplafond", "macht", "toegang", "middelen", "onderwijs", "werkgelegenheid", "inkomen", "vertegenwoordiging", "kloof", "verdeling", "onevenwicht", "geweld", "misbruik", "aanval", "verkrachting", "handel", "verminking", "stalking", "huwelijk", "moord", "uitbuiting", "dwang", "bedreiging", "schade", "misdaden", "rollen", "verwachtingen", "normen", "mannelijkheid", "vrouwelijkheid", "gedrag", "identiteit", "expressie", "conformiteit", "traditie", "socialisatie", "beperkingen", "transgender", "non-binair", "genderqueer", "voornaamwoorden", "transitie", "dysforie", "acceptatie", "erkenning", "inclusiviteit", "diversiteit", "fluiditeit", "spectrum", "gezondheid", "seksualiteit", "oriëntatie", "heteronormativiteit", "homofobie", "bifobie", "lesbisch", "homoseksueel", "biseksueel", "queer", "transfobie", "trots", "bondgenoot", "intersectionaliteit", "reproductie", "moeder", "sterfte", "ziekte", "zorg", "anticonceptie", "abortus", "menstruatie", "kanker", "HIV", "welzijn", "diensten", "geletterdheid", "schooling", "curriculum", "inschrijving", "prestaties", "uitval", "beurzen", "beleid", "werkplek", "salaris", "promotie", "leiderschap", "moederschap", "flexibiliteit", "carrières", "kansen", "voordelen", "media", "seksualisering", "objectivering", "weergave", "invloed", "verhalen", "beeldvorming", "reclame", "gelijkheid", "rechten", "rechtvaardigheid", "empowerment", "billijkheid", "evenwicht", "eerlijkheid", "pariteit", "vrijheid", "respect", "pleitbezorging", "activisme", "campagnes", "protesten", "bewegingen", "bewustwording", "verandering", "solidariteit", "feminisme", "gevoeligheid", "empathie", "training", "competentie", "praktijken", "taal", "analyse", "methodologie", "gegevens", "onderzoek", "statistieken", "evaluatie", "beoordeling", "integratie", "dynamiek", "kader"
+            ]
+        }
+    }
+]

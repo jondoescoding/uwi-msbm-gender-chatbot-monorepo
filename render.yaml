@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: chatbloom-caribbean
+    env: static
+    buildCommand: npm run build
+    staticPublishPath: ./dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    headers:
+      - source: /*
+        headers:
+          - key: Cache-Control
+            value: no-cache
+    envVars:
+      - key: NODE_VERSION
+        value: 18.17.0

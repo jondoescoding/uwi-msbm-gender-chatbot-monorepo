@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-black text-white font-light;
+  }
+}
+
+.gradient-bg {
+  background: linear-gradient(135deg, #000000 0%, #111111 100%);
+}
+
+.card-hover {
+  transition: transform 0.2s ease-in-out;
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+}

@@ -1,0 +1,131 @@
+# RAG Application Overview Document
+
+## Project Requirements Document
+
+### Key Objectives
+- Enable users to chat with a set of news articles hosted on AstraDB.
+
+### Target Audience
+- Journalists and researchers.
+
+### Functional Requirements
+- A user-friendly chat interface for interacting with documents.
+- Chat functionality should include memory and the ability to clear all messages.
+
+### Non-Functional Requirements
+- Immediate response times from the chatbot, with messages streamed to users.
+
+### Technology Stack
+- **Frontend**: React, VITE, TypeScript, TailwindCSS, Shadcn.
+- **Backend**: Python, FastAPI, MongoDB (for news article storage), AstraDB (for embeddings).
+
+---
+
+## App Flow & Functionality Document
+
+### Pages Overview
+**Home**
+- Description of the project with two buttons guiding users to either the Keyword Search or the Chatbot.
+
+**Keyword Search**
+- Users can filter articles based on gender categories, countries, start and end dates, and search for specific articles from a MongoDB list.
+
+**Chatbot**
+- A chat interface similar to ChatGPT, allowing users to interact with the news article documents.
+
+**About**
+- A simple page detailing the project creators and its purpose.
+
+### Navigation Flow
+- A navigation bar contains links to each of the four pages: Home, Keyword Search, Chatbot, and About.
+
+---
+
+## Tech Stack and Packages Document
+
+### Frontend Technologies
+- TypeScript
+- Shadcn
+- React
+- VITE
+
+### Backend Technologies
+- Python 
+   - For logging use .info and .warning
+- FastAPI -> this controls this API which will be built, the api should accept a user's query and then do processing on that query to get an answer from the LLM
+- MongoDB (for news article storage)
+- AstraDB (for embeddings)
+
+### Specific Packages/Tools
+- None specified for state management or API calls.
+
+---
+
+## UI Layout Document
+
+### Design Specifications
+- **UI Packages**: TailwindCSS.
+- **Fonts and Colors**:
+  - Background: Black
+  - Text: White
+  - Accents and Highlights: Blue
+- **Design Effects/Transitions**: None specified.
+
+---
+
+## Fast API Docs
+
+- This web app has been deployed on Render (https://render.com)
+
+### Endpoints On 
+
+#### Chat Endpoints
+- **POST** `/chat`
+  - Processes user chat messages and returns AI responses
+  - Request Body:
+    ```json
+    {
+      "message": string,
+      "chat_history": Array<{role: string, content: string}>
+    }
+    ```
+  - Returns: Streamed AI response
+
+#### Article Search Endpoints
+- **GET** `/articles`
+  - Retrieves filtered news articles
+  - Query Parameters:
+    - `gender_category`: string (optional)
+    - `country`: string (optional) 
+    - `start_date`: date (optional)
+    - `end_date`: date (optional)
+    - `search_term`: string (optional)
+  - Returns: Array of article objects
+
+#### System Endpoints
+- **POST** `/clear-chat`
+  - Clears the chat history
+  - Returns: Success message
+
+### Response Formats
+
+#### Article Object
+
+```json
+{
+  "title": string,
+  "content": string,
+  "date": string,
+  "country": string,
+  "gender_category": string,
+  "url": string
+}
+```
+
+### Error Responses
+- 400: Bad Request - Invalid parameters
+- 404: Not Found - Resource not found
+- 500: Internal Server Error - Server-side error
+
+### Rate Limiting
+- Maximum 100 requests per minute per IP address
