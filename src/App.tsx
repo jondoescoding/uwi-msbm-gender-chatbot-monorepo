@@ -10,7 +10,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Index />} />
-        <Route path="/chat" element={<Chat />} />
+        <Route path="/chatbot" element={<Chat />} />
         <Route path="/search" element={<Search />} />
         <Route path="/about" element={<About />} />
         {/* Catch all routes and show NotFound page which redirects to home */}

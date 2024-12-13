@@ -23,7 +23,7 @@ const Navbar = (): JSX.Element => {
             <Link to="/search" className="text-gray-400 hover:text-white transition-colors font-light text-sm">
               Keyword Search
             </Link>
-            <Link to="/chat" className="text-gray-400 hover:text-white transition-colors font-light text-sm">
+            <Link to="/chatbot" className="text-gray-400 hover:text-white transition-colors font-light text-sm">
               Chatbot
             </Link>
             <Link to="/about" className="text-gray-400 hover:text-white transition-colors font-light text-sm">
@@ -61,7 +61,7 @@ const Navbar = (): JSX.Element => {
                 Keyword Search
               </Link>
               <Link
-                to="/chat"
+                to="/chatbot"
                 className="block py-2 text-gray-400 hover:text-white transition-colors font-light text-sm"
                 onClick={() => setIsOpen(false)}
               >

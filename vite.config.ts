@@ -16,6 +16,8 @@ export default defineConfig(({ mode }) => ({
   },
   server: {
     port: 8080,
+    host: true,
+    strictPort: true
   },
   base: "/",
   optimizeDeps: {
@@ -36,6 +38,8 @@ export default defineConfig(({ mode }) => ({
     }
   },
   preview: {
-    port: 8080
+    port: 8080,
+    host: true,
+    strictPort: true
   }
 }));
