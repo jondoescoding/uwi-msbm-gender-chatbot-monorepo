@@ -1,7 +1,7 @@
 {
-  "name": "chatbloom-caribbean",
+  "name": "uwi-msbm-gender-chatbot",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -24,7 +24,6 @@
     "react": "^18.2.0",
     "react-day-picker": "^8.9.1",
     "react-dom": "^18.2.0",
-    "react-markdown": "^9.0.1",
     "react-router-dom": "^6.19.0",
     "tailwind-merge": "^2.0.0",
     "tailwindcss-animate": "^1.0.7"
@@ -36,7 +35,6 @@
     "@typescript-eslint/eslint-plugin": "^6.10.0",
     "@typescript-eslint/parser": "^6.10.0",
     "@vitejs/plugin-react": "^4.2.0",
-    "@vitejs/plugin-react-swc": "^3.5.0",
     "autoprefixer": "^10.4.16",
     "eslint": "^8.53.0",
     "eslint-plugin-react-hooks": "^4.6.0",
